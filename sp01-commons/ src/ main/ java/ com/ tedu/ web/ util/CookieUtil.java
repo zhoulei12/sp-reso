@@ -9,7 +9,7 @@ public class CookieUtil {
 	/**
 	 * @param response
 	 * @param name
-	 * @param value
+	 * @param value123
 	 * @param maxAge
 	 */
 	public static void setCookie(HttpServletResponse response,
